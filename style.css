@@ -26,3 +26,24 @@
     color: #9b59b6;
     box-shadow: 0 0 5px #603b6f, 0 0 10px #4b3f4f, 0 0 1px #7f7284;
 }
+
+.popUp {
+    width: 400px;
+    background: #fff;
+    position: absolute;
+    border-radius: 10px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #333;
+    transition: transform 0.4s, top 0.4s;
+}
+
+.popUp img {
+    width: 100px;
+    margin-top: -50px;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
