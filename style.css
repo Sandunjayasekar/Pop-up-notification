@@ -17,9 +17,10 @@
 
 .container p {
     color: #382026;
-    font-size: 18px;
-    margin-top: 15px;
-
+    font-size: 20px;
+    margin-top: 25px;
+    text-align: center;
+    font-weight: 500;
 }
 
 .btn {
@@ -36,7 +37,7 @@
 }
 
 .popUp {
-    width: 400px;
+    width: 500px;
     background: #fff;
     position: absolute;
     border-radius: 10px;
@@ -52,7 +53,7 @@
 
 .open-popup {
     visibility: visible;
-    top: 40%;
+    top: 45%;
     transform: translate(-50%, -50%) scale(1);
 }
 
