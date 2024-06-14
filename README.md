@@ -1,1 +1,3 @@
-[Watch the video](https://github.com/Sandunjayasekar/Pop-up-notification/blob/master/images/Screen%20Recording%202024-06-14%20at%2022.04.16.mov)
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
