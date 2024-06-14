@@ -1,1 +1,1 @@
-[Watch the video](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/assets/video.mp4)
+[Watch the video](https://github.com/Sandunjayasekar/Pop-up-notification/blob/master/images/Screen%20Recording%202024-06-14%20at%2022.04.16.mov)
