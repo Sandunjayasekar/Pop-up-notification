@@ -12,6 +12,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+}
+
+.container p {
+    color: #382026;
+    font-size: 18px;
+    margin-top: 15px;
+
 }
 
 .btn {
